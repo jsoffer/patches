@@ -1,0 +1,3 @@
+es.patch: /usr/local/share/X11/xkb/symbols/es
+
+A clumsy way to modify the keyboard to add braces in the center of the board

@@ -1,0 +1,21 @@
+--- es.orig	2012-03-14 15:32:47.000000000 -0600
++++ es	2012-03-14 15:33:12.000000000 -0600
+@@ -61,6 +61,18 @@
+     key <AC11>	{ [     acute,  diaeresis,    braceleft,    braceleft ]	};
+     key <BKSL>	{ [  ccedilla,   Ccedilla,   braceright,        breve ]	};
+     key <AB10>	{ [     minus, underscore, dead_belowdot,    abovedot ]	};
++
++    key <AC06> { [         h,          H,             bracketleft,                H ] };
++    key <AC07> { [         j,          J,     parenleft,                J ] };
++    key <AC08> { [         k,          K,    parenright,               K ] };
++    key <AC09> { [         l,          L,        bracketright,         L ] };
++
++    key <AD07> { [         u,          U,        braceleft,           U] };
++    key <AD08> { [         i,          I,        braceright,           I] };
++    
++    key <AB07> { [         m,          M,            slash,               mu ] };
++    key <AB08> { [     comma,       semicolon,      ampersand,         comma ] };
++    key <AB09> { [    period,    colon,       asterisk,       period ] };
+ };
+ 
+ // Spanish mapping (note R-H exchange)
