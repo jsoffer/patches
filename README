@@ -2,5 +2,7 @@ es.patch: /usr/local/share/X11/xkb/symbols/es
 
 A clumsy way to modify the keyboard to add braces in the center of the board
 
-patch-pmap.c: the result of applying all pmap patches in FreeBSD (including Selphie Keller's, not in ports). 
-Just a reference, it could be a bad idea applying it directly to a fresh tree.
+patch-pmap.c: 
+
+The result of applying all pmap patches in FreeBSD (including Selphie Keller's, not in ports). 
+Only as reference, it could be a bad idea to apply it directly to a fresh source tree.
